@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Torres Software Engineer</title>
+    <title>David Torres - Software Engineer</title>
     <link>https://www.davidtorres.dev/</link>
-    <description>Recent content on David Torres Software Engineer</description>
+    <description>Recent content on David Torres - Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>Publications</title>
       <link>https://www.davidtorres.dev/publications/publications/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.davidtorres.dev/publications/publications/</guid>
-      <description>Publications go here </description>
+      <description>Using Sparse CCA for Vocabulary Selection. Master&amp;rsquo;s Thesis, Univ. of California at San Diego (2009).[pdf]
+  Semantic Annotation and Retrieval of Music and Sound Effects. IEEE Transactions on Audio, Speech and Language Processing, Volume: 16, Issue 2. Douglas Turnbull, Luke Barrington, David Torres and Gert Lanckriet (2008). [pdf]
+  Finding Musically Meaningful Words by Sparse CCA. Neural Information Processing Systems (NIPS) Workshop on Music, the Brain and Cognition.</description>
     </item>
     
   </channel>
