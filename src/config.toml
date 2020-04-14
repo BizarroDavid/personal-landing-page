@@ -1,5 +1,5 @@
 baseurl = "https://www.davidtorres.dev"
-title = "David Torres Software Engineer"
+title = "David Torres - Software Engineer"
 
 theme = "hugo-coder"
 
@@ -17,14 +17,14 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "David Torres"
-    description = "David Torres' personal website"
+    description = "Developer website"
     keywords = "blog,developer,personal"
-    info = "Software Engineer"
-    avatarurl = "images/avatar2.jpg"
-    #gravatar = "john.doe@example.com"
+    info = "Software Engineer"    
+    gravatar = "torresdavid@gmail.com"    
+    #avatarurl = "images/avatar2.jpg"
 
     #before you update update version with epoc time `date +%s` 
-    footercontent = "1.0.0:1586803066"
+    footercontent = "1.0.0:1586884918"
 
     dateformat = "January 2, 2006"
 
@@ -106,10 +106,14 @@ disqusShortname = "yourdiscussshortname"
             weight = 2
             url = "pdfs/resume-david-torres.pdf"
 
+            [[languages.en.menu.main]]
+            name = "Publications"
+            weight = 4
+            url = "publications/publications/index.html"
 
             [[languages.en.menu.main]]
             name = "Email"
-            weight = 3
+            weight = 5
             url = "mailto:torresdavid@gmail.com"
 
 
