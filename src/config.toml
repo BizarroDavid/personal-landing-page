@@ -24,7 +24,7 @@ disqusShortname = "yourdiscussshortname"
     #avatarurl = "images/avatar2.jpg"
 
     #before you update update version with epoc time `date +%s` 
-    footercontent = "1.1.0:1586884918"
+    footercontent = "1.1.0:1587495697"
 
     dateformat = "January 2, 2006"
 
