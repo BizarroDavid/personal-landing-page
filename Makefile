@@ -16,4 +16,5 @@ publish:
 		-u hugo \
 		hugo-builder hugo deploy --target production
 
-
+get-time:
+	date +%s
