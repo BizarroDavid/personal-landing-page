@@ -51,7 +51,7 @@ This project uses a containerized Hugo image to build and publish static content
 * Add the unix epoc timestamp to the `footercontent` variable in the config file. (This is my manual "build number")
     * run `date +%s` to get the epoc time.
 * Run `make publish`
-* Tag your repo
+* Commit repo changes with published tag.
 
 
 # Other Stuff 
